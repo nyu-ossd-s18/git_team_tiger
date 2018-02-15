@@ -22,3 +22,10 @@ origin	https://github.com/nyu-ossd-s18/git_team_tiger.git (fetch)
 
 another_branch
 * master
+
+## Changes after pulling another_branch:
+another_branch visible after git branch -a
+
+after git checkout another_branch:
+* another_branch
+  master
