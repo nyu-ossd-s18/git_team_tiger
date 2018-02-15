@@ -27,5 +27,5 @@ another_branch
 another_branch visible after git branch -a
 
 after git checkout another_branch:
-* another_branch
+  another_branch (active)
   master
